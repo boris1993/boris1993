@@ -7,7 +7,7 @@
 
 I'm **Boris Zhao**, a software developer from **Shanghai, China**.
 
-I write Java and Kotlin for a living.And I also write Go, Swift, etc. for fun.
+I write Java and Kotlin for a living. And I also write Go, Swift, etc. for fun.
 
 # Technologies & Tools
 
@@ -20,28 +20,24 @@ I write Java and Kotlin for a living.And I also write Go, Swift, etc. for fun.
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
-- Languages:
+- Languages: 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-- Tools:
+- Tools: 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
 
 # How To Reach Me
 
-<!-- <center><b> -->
-
 - [GitHub](https://github.com/boris1993)
 - [Instagram](https://www.instagram.com/boris.zhao/)
 - [StackOverFlow](https://stackoverflow.com/users/3833858/boris1993)
-- [Bilibili (A video sharing site in China)](https://space.bilibili.com/3633374)
+- [Bilibili (You can watch my videos here)](https://space.bilibili.com/3633374)
 - [My Blog (Written in Chinese)](https://www.boris1993.com)
-
-<!-- </b></center> -->
 
 # Trophies
 
