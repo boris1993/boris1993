@@ -33,11 +33,10 @@ I write Java and Kotlin for a living. And I also write Go, Swift, etc. for fun.
 
 # How To Reach Me
 
-- [GitHub](https://github.com/boris1993)
-- [Instagram](https://www.instagram.com/boris.zhao/)
-- [StackOverFlow](https://stackoverflow.com/users/3833858/boris1993)
-- [Bilibili (You can watch my videos here)](https://space.bilibili.com/3633374)
-- [My Blog (Written in Chinese)](https://www.boris1993.com)
+- [Ask me questions in Issues](https://github.com/boris1993/boris1993/issues)
+- [Watch photos I shared on Instagram](https://www.instagram.com/boris.zhao/)
+- [Watch videos I made on Bilibili](https://space.bilibili.com/3633374)
+- [Read my blogs (In Chinese)](https://www.boris1993.com)
 
 # Trophies
 
