@@ -43,6 +43,10 @@ I write Java and Kotlin for a living.And I also write Go, Swift, etc. for fun.
 
 <!-- </b></center> -->
 
+# Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=boris1993&theme=onedark&margin-w=15)
+
 # My BOINC
 
 - World Community Grid 
