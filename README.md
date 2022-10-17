@@ -9,6 +9,13 @@ I'm **Boris Zhao**, a software developer from **Shanghai, China**.
 
 I write C#, Java and Kotlin for a living. And I also write Go, Swift, etc. for fun.
 
+![GitHub contribution Snake](https://raw.githubusercontent.com/boris1993/boris1993/snake_output/github-contribution-grid-snake.svg)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/boris1993/count.svg" />
+</p>
+
 # Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
