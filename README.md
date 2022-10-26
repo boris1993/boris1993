@@ -55,11 +55,6 @@ I write C#, Java and Kotlin for a living. And I also write Go, Swift, etc. for f
 
 # My BOINC
 
-- World Community Grid 
-
-![World Community Grid](https://signature.statseb.fr/sig-2740.png)
-
-- BOINCStats
-
-![BOINCStats](https://www.boincstats.com/signature/-1/bam/36477/sig.png)
-
+|BOINCStats|World Community Grid|
+|----------|--------------------|
+|![BOINCStats](https://www.boincstats.com/signature/-1/bam/36477/sig.png)|![WCG medals](https://signature.statseb.fr/sig-2740.png)|
