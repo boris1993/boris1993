@@ -55,6 +55,12 @@ I write C#, Java and Kotlin for a living. And I also write Go, Swift, etc. for f
 
 # My BOINC
 
-|BOINCStats|Medals|
-|----------|--------------------|
-|![BOINCStats](https://www.boincstats.com/signature/-1/bam/36477/sig.png)|![medals](https://signature.statseb.fr/sig-2740.png)|
+| BOINCStats                                                     | Medals                                         |
+| -------------------------------------------------------------- | ---------------------------------------------- |
+| ![](https://www.boincstats.com/signature/-1/bam/36477/sig.png) | ![](https://signature.statseb.fr/sig-2740.png) |
+
+# My Folding@Home
+
+| WUs award                                                          | Points Award                                              |
+| ------------------------------------------------------------------ | --------------------------------------------------------- |
+| ![](https://apps.foldingathome.org/awards?user=650987489&type=wus) | ![](https://apps.foldingathome.org/awards?user=650987489) |
