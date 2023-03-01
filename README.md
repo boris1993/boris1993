@@ -53,7 +53,7 @@ I write C#, Java and Kotlin for a living. And I also write Go, Swift, etc. for f
 
 # Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=boris1993&theme=onedark&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=boris1993&theme=onedark&margin-w=15&column=-1)
 
 # My BOINC
 
