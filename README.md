@@ -27,12 +27,14 @@ I write C#, Java and Kotlin for a living. And I also write Go, Swift, etc. for f
 ![](https://img.shields.io/badge/IDE-GoLand-informational?style=flat&logo=goland&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
@@ -51,7 +53,7 @@ I write C#, Java and Kotlin for a living. And I also write Go, Swift, etc. for f
 
 # Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=boris1993&theme=onedark&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=boris1993&theme=onedark&margin-w=15)
 
 # My BOINC
 
