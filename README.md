@@ -43,7 +43,6 @@ I write C#, Java and Kotlin for a living. And I also write Go, Swift, etc. for f
 
 # How To Reach Me
 
-- [Ask me questions in Issues](https://github.com/boris1993/boris1993/issues)
 - [Watch photos I shared on Instagram](https://www.instagram.com/boris.zhao/)
 - [Watch videos I made on Bilibili](https://space.bilibili.com/3633374)
 - [Read my blogs (In Chinese)](https://www.boris1993.com)
