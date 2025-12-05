@@ -39,7 +39,6 @@ I write C#, Java and Kotlin for a living. And I also write Go, Swift, etc. for f
 ![](https://img.shields.io/badge/IDE-GoLand-informational?style=flat&logo=goland&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
 
 # How To Reach Me
 
