@@ -9,8 +9,6 @@ I'm **Boris Zhao**, a software developer from **Shanghai, China**.
 
 I write C#, Java and Kotlin for a living. And I also write Go, Swift, etc. for fun.
 
-![](https://github-profile-trophy.vercel.app/?username=boris1993&theme=onedark&margin-w=15&column=-1)
-
 ![GitHub contribution Snake](https://raw.githubusercontent.com/boris1993/boris1993/snake_output/github-contribution-grid-snake.svg)
 
 # Technologies & Tools
